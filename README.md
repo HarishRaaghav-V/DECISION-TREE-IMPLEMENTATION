@@ -99,3 +99,7 @@ Credit Scoring: Assesses creditworthiness based on past financial behavior.
 
 Conclusion
 Decision trees provide a structured, interpretable way to analyze bank customer data. By leveraging historical financial records, banks can make informed decisions efficiently, enhancing customer service and mitigating financial risks. Implementing a decision tree-based model improves accuracy, speeds up decision-making processes, and contributes to overall financial security.
+
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/42a914a1-a0dc-4d66-a7a9-199b84280315)
